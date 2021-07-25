@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/home.unity
+    guid: 6e6196bff034a0040b0f7bb7fbe7891e
+  - enabled: 1
+    path: Assets/Scenes/homeMade.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Lvl1.unity
+    guid: 649926b2be29e294296f6689a7f37849
+  - enabled: 1
+    path: Assets/Scenes/Lvl2.unity
+    guid: fbc7634e5e73e8545a77b4bd8db73014
+  - enabled: 1
+    path: Assets/Scenes/Lvl3.unity
+    guid: 3ca5a0adf3ceb5146b24e3dd384cc766
+  - enabled: 1
+    path: Assets/Scenes/Lvl4.unity
+    guid: 740695899a3088a44871ce9ef7218735
+  - enabled: 1
+    path: Assets/Scenes/Lvl5.unity
+    guid: 3064ef9e36ceffc45a904de8d3b1b1cf
+  - enabled: 1
+    path: Assets/Scenes/Lvl6.unity
+    guid: cf593509080f9154f9b855192c922315
+  - enabled: 1
+    path: Assets/Scenes/Lvl7.unity
+    guid: d136af4108c01b742a81b09964c254da
+  - enabled: 1
+    path: Assets/Scenes/Lvl8.unity
+    guid: 95bf83d303c1bc245aacc00b557080b3
+  - enabled: 1
+    path: Assets/Scenes/Lvl9.unity
+    guid: 08515494c9ee893488ba507136aeeed9
+  - enabled: 1
+    path: Assets/Scenes/Lvl10.unity
+    guid: a73795b229eea68439052de82b93c672
+  - enabled: 1
+    path: Assets/Scenes/Lvl11.unity
+    guid: 13395657046692a4f87bebddfa4ba20f
+  - enabled: 1
+    path: Assets/Scenes/Lvl12.unity
+    guid: 6fd950fe406981f4f96d77a8562b3d6c
+  - enabled: 1
+    path: Assets/Scenes/Lvl13.unity
+    guid: e6948de4dcf101b4a98ab66a999a8aae
+  - enabled: 1
+    path: Assets/Scenes/Lvl14.unity
+    guid: 006f8c228aac4fc40a74d984b4aeaec1
+  - enabled: 1
+    path: Assets/Scenes/Lvl15.unity
+    guid: 3b9278168323b4e4da06a88c5ad826fd
+  - enabled: 1
+    path: Assets/Scenes/Lvl16.unity
+    guid: 225a2d963a487ba489dbf66e000855c4
+  - enabled: 1
+    path: Assets/Scenes/Lvl17.unity
+    guid: bdb681f367330e44094ecd452079886f
+  - enabled: 1
+    path: Assets/Scenes/Lvl18.unity
+    guid: 85c49e3ee66c037419f5fc9bfc21c3e4
+  m_configObjects: {}
